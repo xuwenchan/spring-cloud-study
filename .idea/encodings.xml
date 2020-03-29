@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-jtaxa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-jtaxa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-sentinel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-sentinel/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_alibaba_feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_alibaba_feign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_alibaba_nacos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_alibaba_nacos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_alibaba_nacos2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_alibaba_nacos2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_nacos_consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_nacos_consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

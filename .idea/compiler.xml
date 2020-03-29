@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_cloud_alibaba_nacos2" />
+        <module name="spring-cloud-alibaba-jtaxa" />
+        <module name="spring_cloud_nacos_consumer" />
+        <module name="spring_cloud_alibaba_nacos" />
+        <module name="spring-cloud-alibaba-sentinel" />
+        <module name="spring_cloud_common" />
+        <module name="spring_cloud_alibaba_feign" />
+        <module name="spring-cloud-alibaba-gateway" />
+        <module name="spring-cloud-quartz" />
+        <module name="spring-cloud-spring-security" />
+        <module name="spring-cloud-alibaba-rocketmq" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring_cloud_alibaba_nacos_provider2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-cloud-alibaba-gateway" options="-parameters" />
+      <module name="spring-cloud-alibaba-jtaxa" options="-parameters" />
+      <module name="spring-cloud-alibaba-sentinel" options="-parameters" />
+      <module name="spring-cloud-quartz" options="-parameters" />
+      <module name="spring-cloud-spring-security" options="" />
+      <module name="spring_cloud_alibaba" options="" />
+      <module name="spring_cloud_alibaba_feign" options="-parameters" />
+      <module name="spring_cloud_alibaba_nacos" options="-parameters" />
+      <module name="spring_cloud_alibaba_nacos2" options="-parameters" />
+      <module name="spring_cloud_alibaba_nacos_provider2" options="-parameters" />
+      <module name="spring_cloud_common" options="-parameters" />
+      <module name="spring_cloud_nacos_consumer" options="-parameters" />
+    </option>
+  </component>
+</project>

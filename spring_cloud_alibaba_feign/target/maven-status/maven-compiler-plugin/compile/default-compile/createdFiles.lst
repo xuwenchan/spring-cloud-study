@@ -1,0 +1,4 @@
+com\alibaba\application\FeignApplication.class
+com\alibaba\model\UserModel.class
+com\alibaba\controller\ConsumerFeignController.class
+com\alibaba\service\UserService.class
